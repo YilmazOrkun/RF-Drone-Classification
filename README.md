@@ -20,7 +20,7 @@ Since I am using a macbook pro with M1 16GB I splitted the dataset into manageab
 ## Train
 
 Execute train.py
-![Training result](model_diagram.png)
+![Training result](training_picture.png)
 ## Create samples to be streamed for GNU Radio
 
 Execute export_iq_for_gnuradio.py to create 1000 samples that will be played by GNU Radio
