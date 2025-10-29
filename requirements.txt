@@ -1,0 +1,7 @@
+numpy>=1.24.0
+torch>=2.1.0
+tqdm>=4.66.0
+matplotlib>=3.8.0
+pyzmq>=25.1.0
+gnuradio>=3.10.0
+
